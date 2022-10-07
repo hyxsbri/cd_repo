@@ -7,3 +7,4 @@ def solution(n, left, right):
         ans.append(max(a,b)+1)
     return ans
 
+
