@@ -1,7 +1,6 @@
 
 
 
-
 arr = [[0 for _ in range(101)] for _ in range(101)]
 n = int(input())
 ans = 0
@@ -17,27 +16,6 @@ for k in arr:
     ans += sum(k)
 
 print(ans)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
