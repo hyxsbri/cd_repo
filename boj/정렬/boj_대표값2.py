@@ -12,29 +12,3 @@ for i in range(10000001):
         for j in range(l[i]):
             print(i)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
