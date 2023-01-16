@@ -7,4 +7,6 @@ if (v-b) % (a-b) == 0:
     
 else:
     print((v-b) // (a-b) + 1)
+    
+    
 
