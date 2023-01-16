@@ -13,7 +13,3 @@ for j in range(n):
     print(l[j][0], l[j][2])
 
 
-
-
-
-
