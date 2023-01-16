@@ -17,3 +17,5 @@ for _ in range(t):
     print(people[-1]) # k층 n호에 사는 사람 수
 
 
+
+    
