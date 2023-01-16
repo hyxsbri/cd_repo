@@ -1,9 +1,6 @@
 
 
 
-
-
-
 n = int(input())
 
 while n > 1:
@@ -16,15 +13,6 @@ while n > 1:
             print(i)
             n //= i
             break
-
-
-
-
-
-
-
-
-
 
 
 
