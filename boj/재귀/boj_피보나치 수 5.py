@@ -21,13 +21,4 @@ for _ in range(t):
     print(isPalindrome(s)[0], isPalindrome(s)[1])
 
 
-
-
-
-
-
-
-
-
-
-
+    
