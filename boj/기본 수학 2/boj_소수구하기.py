@@ -1,4 +1,5 @@
 
+
 import sys
 input = sys.stdin.readline
 
@@ -27,38 +28,6 @@ while True:
         if n < j <= 2*n:
             cnt += 1
     print(cnt)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
