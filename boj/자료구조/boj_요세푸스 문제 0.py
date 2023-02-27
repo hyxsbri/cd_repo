@@ -1,0 +1,15 @@
+
+
+n, k = map(int, input().split())
+
+arr = [i for i in range(1, n+1)]
+pt = 0
+ans = []
+
+for _ in range(n):
+    pt += k-1
+    pt %= len(arr)
+    ans.append(arr.pop(pt))
+
+print(f"<{', '.join(map(str, ans))}>")
+
