@@ -12,4 +12,5 @@ for _ in range(n):
     ans.append(arr.pop(pt))
 
 print(f"<{', '.join(map(str, ans))}>")
+# f-string - 중괄호 안에 변수명이나 식을 넣어서 원하는 출력 형식 만듦
 
