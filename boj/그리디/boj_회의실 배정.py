@@ -25,7 +25,3 @@ for end, start in meetings:
 
 print(ans)
 
-
-
-
-
