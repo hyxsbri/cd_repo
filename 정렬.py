@@ -58,6 +58,7 @@ def quick2(array):
 
     return quick2(left) + [pivot] + quick2(right)
 
-print(quick2(arr2))     
+print(quick2(arr2))
+
         
 
